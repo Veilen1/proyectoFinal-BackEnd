@@ -1,7 +1,7 @@
 const express = require("express")
 const app = express()
-const routerCarritos = require("./routes/carts")
-const routerProductos = require("./routes/products")
+const routerCarritos = require("./src/routes/carts")
+const routerProductos = require("./src/routes/products")
 
 
 
